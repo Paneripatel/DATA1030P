@@ -1,0 +1,1 @@
+*The readme file should give an overview of the project, it states what python version and package versions were used to develop the code so others can run it locally and reproduce your results (add a yaml file as well for ease of use)*
